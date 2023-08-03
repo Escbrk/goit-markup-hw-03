@@ -39,6 +39,10 @@ body {
   line-height: 1.5;
 }
 
+img {
+  display: block;
+}
+
 ul,
 ol {
   padding-left: 0;
