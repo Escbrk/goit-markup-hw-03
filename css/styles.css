@@ -370,9 +370,10 @@ span {
   margin-bottom: 72px;
 }
 
-/* .services {
+.services {
+padding: 96px 0 120px 0;
+}
 
-} */
 .services-title {
   color: var(--color-navy-blue);
   font-size: 20px;
