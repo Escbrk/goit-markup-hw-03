@@ -215,7 +215,7 @@ span {
 
 .hero {
   background-color: var(--color-navy-blue);
-  background-image: url(../images/office.jpg);
+  /* background-image: url(../images/office.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   
