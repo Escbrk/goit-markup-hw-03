@@ -26,6 +26,7 @@
 .container {
   max-width: 1158px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 .display-flex {
   display: flex;
@@ -136,7 +137,6 @@ span {
 
 .header-wrap {
   display: flex;
-  padding: 24px 0;
 }
 .header-nav {
   display: flex;
@@ -213,6 +213,13 @@ span {
   background-color: var(--color-ocean);
 }
 
+.hero {
+  background-color: var(--color-navy-blue);
+  /* background-image: url(../images/office.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
 
 .btn {
   color: var(--main-bcg-color);
