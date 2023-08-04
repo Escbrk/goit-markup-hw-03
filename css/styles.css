@@ -292,7 +292,8 @@ span {
   font-size: 36px;
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
-  margin-bottom: 72px;
+  /* margin-bottom: 72px; */
+  margin-bottom: 8px;
 }
 .team-item {
   background-color: var(--main-bcg-color);
@@ -301,7 +302,6 @@ span {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
-
 
 .team-member-title {
   margin-bottom: 9px;
@@ -315,7 +315,7 @@ span {
 }
 
 .card-container {
-  padding: 32px 0
+  padding: 32px 0;
 }
 
 /*! -------------TEAM END-------------*/
@@ -357,8 +357,6 @@ span {
 }
 
 /*! -------------PORTFOLIO PAGE__/START-------------*/
-
-
 
 .sorting > .list {
   display: flex;
