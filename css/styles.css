@@ -396,7 +396,6 @@ span {
 
 .services-item {
   width: calc((100% - 2 * 24px) / 3);
-  border: 1px solid #e7e9fc;
   background: var(--color-white);
   text-align: left;
 }
@@ -422,6 +421,7 @@ span {
 
 .services-text-container {
   padding: 32px 16px;
+  border: 1px solid var(--color-cornflower);
 }
 
 
