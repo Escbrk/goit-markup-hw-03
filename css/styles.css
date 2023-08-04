@@ -343,6 +343,7 @@ span {
 
 .footer {
   background-color: var(--color-navy-blue);
+  padding: 100px 0;
 }
 .footer-text {
   color: var(--color-cloud);
@@ -358,13 +359,6 @@ span {
 
 /*! -------------PORTFOLIO PAGE__/START-------------*/
 
-
-
-.sorting > .list {
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-}
 
 .list-btn {
   border-radius: 4px;
