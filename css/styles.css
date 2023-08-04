@@ -148,7 +148,6 @@ span {
   display: flex;
   gap: 40px;
   margin-left: auto;
-  padding: 24px 0;
 }
 
 .header-contacts {
@@ -174,6 +173,7 @@ span {
   font-weight: 500;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue);
+  padding: 24px 0;
 }
 
 .active {
