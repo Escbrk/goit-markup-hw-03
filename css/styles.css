@@ -124,7 +124,7 @@ span {
 }
 
 .section {
-  padding: 120px 0 120px 0;
+  padding: 120px 0;
 }
 
 .list {
@@ -205,6 +205,7 @@ span {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   display: block;
   margin: 0 auto;
+  min-width: 169px;
 }
 .main-btn:hover {
   background-color: var(--color-ocean);
@@ -218,6 +219,7 @@ span {
   /* background-image: url(../images/office.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 188px 0;
   
 }
 
