@@ -355,6 +355,11 @@ span {
   color: var(--color-cloud);
 }
 
+.footer-link {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 /*! -------------PORTFOLIO PAGE__/START-------------*/
 
 
@@ -404,6 +409,10 @@ span {
 .services-link > img {
   margin-bottom: 32px;
   width: 100%;
+}
+
+.services-btns-item {
+  padding: 24px 0;
 }
 
 /*! -------------PORTFOLIO PAGE__/END-------------*/
