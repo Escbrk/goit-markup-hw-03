@@ -125,7 +125,7 @@ span {
 }
 
 .section {
-  padding: 96px 0 120px 0;
+  padding: 120px 0;
 }
 
 .list {
@@ -415,8 +415,14 @@ span {
   padding: 12px 24px;
 }
 
+.sorting-btn:hover,
+.sorting-btn:focus {
+  border: 1px solid transparent;
+}
+
 .services-text-container {
   padding: 32px 16px;
 }
+
 
 /*! -------------PORTFOLIO PAGE__/END-------------*/
