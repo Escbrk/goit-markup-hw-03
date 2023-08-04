@@ -32,6 +32,10 @@
   display: flex;
   gap: 24px;
 }
+.header-border {
+  border-bottom: 1px solid var(--color-cornflower);
+  padding: 24px 0;
+}
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -220,7 +224,6 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 188px 0;
-  
 }
 
 .btn {
@@ -356,9 +359,7 @@ span {
 
 /*! -------------PORTFOLIO PAGE__/START-------------*/
 
-.header-border {
-  border-bottom: 1px solid var(--color-cornflower);
-}
+
 
 .sorting > .list {
   display: flex;
